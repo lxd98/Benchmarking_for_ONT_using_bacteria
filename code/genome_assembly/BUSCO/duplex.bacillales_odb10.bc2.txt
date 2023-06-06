@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: bacillales_odb10 (Creation date: 2021-02-23, number of genomes: 412, number of BUSCOs: 450)
+# Summarized benchmarking in BUSCO notation for file /home/xudongliu/working/project/bacter_r1041/v1/draft_duplex/bc2.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:95.8%[S:94.9%,D:0.9%],F:1.1%,M:3.1%,n:450	   
+	431	Complete BUSCOs (C)			   
+	427	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	5	Fragmented BUSCOs (F)			   
+	14	Missing BUSCOs (M)			   
+	450	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	38	Number of scaffolds
+	38	Number of contigs
+	5460118	Total length
+	0.000%	Percent gaps
+	326 KB	Scaffold N50
+	326 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.00
+	prodigal: 2.6.3
+	busco: 5.4.3

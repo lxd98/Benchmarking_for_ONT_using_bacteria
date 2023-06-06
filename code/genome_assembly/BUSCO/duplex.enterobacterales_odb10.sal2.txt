@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: enterobacterales_odb10 (Creation date: 2021-02-23, number of genomes: 212, number of BUSCOs: 440)
+# Summarized benchmarking in BUSCO notation for file /home/xudongliu/working/project/bacter_r1041/v1/draft_duplex/sal2.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:94.6%[S:94.1%,D:0.5%],F:3.0%,M:2.4%,n:440	   
+	416	Complete BUSCOs (C)			   
+	414	Complete and single-copy BUSCOs (S)	   
+	2	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	11	Missing BUSCOs (M)			   
+	440	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	18	Number of scaffolds
+	18	Number of contigs
+	5139102	Total length
+	0.000%	Percent gaps
+	507 KB	Scaffold N50
+	507 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.00
+	prodigal: 2.6.3
+	busco: 5.4.3
