@@ -13,7 +13,7 @@ sed -i 's/simplex./simplex_/g' tmp_file.txt
 sed 's/_/\t/g' tmp_file.txt | awk '{print $1 "\t" $2"_"$5 "\t" $3 "\t" $4 "\t" $6 "\t" $7}' > final_file.txt
 ```
 
-Then we can get the table which can be used to plot the figure by R package, ggplot2. NOTE: please add the header.
+Then we can get the table which can be used to plot the figure. NOTE: please add the header.
 
 ```shell
 bac	type	coverage	seed	mis	indels
