@@ -102,7 +102,7 @@ ggplot(df, aes(x=coverage, color=type, y=mis, group=type)) +
 ```
 
 And we get the following demo figure for Mismatches per 100 Kbp.
-
+![alt text](demo/substitution.png)
 
 
 Then we can get the table which can be used to plot the figure by R package, ggplot2. NOTE: please add the header.
