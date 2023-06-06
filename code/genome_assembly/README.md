@@ -104,9 +104,7 @@ ggplot(df, aes(x=coverage, color=type, y=mis, group=type)) +
 And we get the following demo figure for Mismatches per 100 Kbp.
 
 
-
 ![alt text](demo/substitution.png)
-
 
 
 R code for Indels:
