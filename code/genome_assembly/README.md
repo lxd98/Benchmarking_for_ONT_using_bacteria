@@ -1,4 +1,4 @@
-To get the mismatchers and indels from the Quast results, using the following code:
+To get the substitutions and indels from the Quast results, using the following code:
 
 ```shell
 awk '{print $1 "\t" $45 "\t" $46}' transposed_report.tsv  | grep -v Assembly > tmp_file.txt 
