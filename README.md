@@ -19,18 +19,18 @@
 
 
 
-**The taxonomy for eight bacteria**
+**The taxonomy for eight bacteria：**
 
-|     Phylum     |        Class        |      Order       |       Family       |     Genes      |         Species          |
-| :------------: | :-----------------: | :--------------: | :----------------: | :------------: | :----------------------: |
-| Proteobacteria | Gammaproteobacteria | Pseudomonadales  |   Moraxellaceae    | Acinetobacter  |  *Acinetobacter pittii*  |
-| Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |  Escherichia   |    *Escherichia coli*    |
-| Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |   Klebsiella   | *Klebsiella pneumoniae*  |
-| Proteobacteria | Gammaproteobacteria | Pseudomonadales  |  Pseudomonadaceae  |  Pseudomonas   | *Pseudomonas aeruginosa* |
-| Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |   Salmonella   |  *Salmonella enterica*   |
-|   Firmicutes   |       Bacilli       |    Bacillales    |    Bacillaceae     |    Bacillus    |    *Bacillus  cereus*    |
-|   Firmicutes   |       Bacilli       | Lactobacillales  |  Enterococcaceae   |  Enterococcus  |  *Enterococcus faecium*  |
-|   Firmicutes   |       Bacilli       |    Bacillales    | Staphylococcaceae  | Staphylococcus | *Staphylococcus aureus*  |
+| Domain   |     Phylum     |        Class        |      Order       |       Family       |     Genes      |         Species          |
+| -------- | :------------: | :-----------------: | :--------------: | :----------------: | :------------: | :----------------------: |
+| Bacteria | Proteobacteria | Gammaproteobacteria | Pseudomonadales  |   Moraxellaceae    | Acinetobacter  |  *Acinetobacter pittii*  |
+| Bacteria | Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |  Escherichia   |    *Escherichia coli*    |
+| Bacteria | Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |   Klebsiella   | *Klebsiella pneumoniae*  |
+| Bacteria | Proteobacteria | Gammaproteobacteria | Pseudomonadales  |  Pseudomonadaceae  |  Pseudomonas   | *Pseudomonas aeruginosa* |
+| Bacteria | Proteobacteria | Gammaproteobacteria | Enterobacterales | Enterobacteriaceae |   Salmonella   |  *Salmonella enterica*   |
+| Bacteria |   Firmicutes   |       Bacilli       |    Bacillales    |    Bacillaceae     |    Bacillus    |    *Bacillus  cereus*    |
+| Bacteria |   Firmicutes   |       Bacilli       | Lactobacillales  |  Enterococcaceae   |  Enterococcus  |  *Enterococcus faecium*  |
+| Bacteria |   Firmicutes   |       Bacilli       |    Bacillales    | Staphylococcaceae  | Staphylococcus | *Staphylococcus aureus*  |
 
 
 
