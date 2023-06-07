@@ -19,7 +19,8 @@ Demo of R code
 ggplot(df, aes(x=Acc, fill=method)) + geom_density(adjust=10, alpha=0.8) + 
 	scale_x_continuous(name="Read accuracy (%)", limits = c(85,100), breaks = c(85,90,95,97,98,99,100)) +
 	scale_y_continuous(name="Probability Density Function (PDF)") + theme_bw() +
-	scale_fill_manual(values=c("R941"="#9ecae1", "R1041_duplex"="#fc9272", "R1041_simplex" ="#fec44f")) +			 				theme(axis.text=element_text(size=12, family = "Arial", color="black"),
+	scale_fill_manual(values=c("R941"="#9ecae1", "R1041_duplex"="#fc9272", "R1041_simplex" ="#fec44f")) +
+	theme(axis.text=element_text(size=12, family = "Arial", color="black"),
         axis.title=element_text(size=12, family = "Arial", color="black"),
         legend.text = element_text(size=12, family = "Arial", color="black"),
         legend.title = element_blank())
