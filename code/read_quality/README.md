@@ -52,7 +52,7 @@ R1041_duplex	Ins	4	12363
 Demo of R code 
 
 ```R
-df["ratio"] <- df["value"] / df["legth"]
+df["ratio"] <- df["value"] / df["length"]
 
 ggplot(df1, aes(x=type, fill=method, y=ratio)) + 
 	geom_boxplot(width=1,outlier.shape = NA, outlier.alpha = 0.1) + theme_bw() + xlab("") + 
