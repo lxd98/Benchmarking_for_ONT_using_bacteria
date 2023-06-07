@@ -1,4 +1,4 @@
-# Benchmarking_for_bacteria
+# Benchmarking for ONT data using bacteria samples
 
 
 **Introduction:** Open Repository of Scripts and Resources for Nanopore (R1041 simplex/ R1041 duplex/ R941) and NGS Sequencing of Eight Bacteria.
