@@ -84,7 +84,7 @@ df <- read.csv("final_file.txt", sep = "\t", header = T)
 ggplot(df, aes(x=coverage, color=type, y=mis, group=type)) + 
 	geom_line(size=1) +  geom_point(size=2) + theme_bw()  + 
 	scale_x_continuous(name="", limits = c(0,120), breaks=seq(0,120,20)) +
-	scale_y_continuous(name="Mismatches per 100 kbp",
+	scale_y_continuous(name="substitution per 100 kbp",
                      breaks=c(0.00390625, 0.015625, 0.0625,0.25,1,4,16,64), 
                      labels = c(0.00390625, 0.015625, 0.0625,0.25,1,4,16,64),
                      limits = c(0.001,64),expand = c(0,0),trans = "log2") +
